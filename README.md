@@ -1,23 +1,12 @@
-# ArtVista Gallery
+# Employee Dashboard
 
-This repository contains a Bootstrap-based art gallery website built with HTML and CSS.
+Simple React app showing employees from an external API and an employee form.
 
-## Live demo
-After GitHub Pages is enabled, the site should be available at:
+Install and run:
 
-https://ansiyabenny96-hub.github.io/assignment1/
+```bash
+npm install
+npm start
+```
 
-## Pages included
-- `index.html` — Login page
-- `signup.html` — Sign-up page
-- `home.html` — Gallery home page
-- `art-display.html` — Art display listing
-- `art-aurora-bloom.html`
-- `art-cosmos-drift.html`
-- `art-echoes-night.html`
-- `art-silhouette-reverie.html`
-- `art-tide-memory.html`
-- `styles.css`
-
-## Notes
-If the live site does not appear immediately, wait a few minutes for GitHub Pages to publish the site.
+Open http://localhost:3000
